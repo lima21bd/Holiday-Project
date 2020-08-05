@@ -1,0 +1,21 @@
+cd Desktop/
+mkdir Store
+cd Store/
+git clone https://github.com/lima21bd/repository_name.git
+cd repository_name/
+ls
+nano new_file2.txt
+git status
+git add *
+git commit -m new
+git push
+git status
+cd ..
+cd ..
+cd repository_name/
+git status
+ls
+git pull
+ls
+git status
+git log
