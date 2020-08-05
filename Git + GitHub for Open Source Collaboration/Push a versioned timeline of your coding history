@@ -1,0 +1,13 @@
+git config --global user.name 'Khadija Akter Lima'
+git config --global user.email '*******......@***.***.**'
+cd repository_name/
+ls
+git status
+nano new_file.txt
+ls
+git status
+git add new_file.txt
+git add *
+git status
+git commit -m 'added a new file'
+git push
