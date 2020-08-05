@@ -1,5 +1,6 @@
 git config --global user.name 'Khadija Akter Lima'
 git config --global user.email '*******......@***.***.**'
+git clone https://github.com/lima21bd/repository_name.git
 cd repository_name/
 ls
 git status
