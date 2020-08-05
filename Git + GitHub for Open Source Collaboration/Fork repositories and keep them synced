@@ -1,0 +1,15 @@
+# At first Fork Repository
+# then go to git bash
+
+cd ..
+rm -rf repository_name/
+nano new_file.txt
+git add *
+git commit -m new
+git push
+git remote add upstream https://github.com/lima21bd/repository_name.git
+git remote -v
+git clear
+git pull upstream master
+
+
