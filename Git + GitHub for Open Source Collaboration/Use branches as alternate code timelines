@@ -1,0 +1,16 @@
+cd Desktop/
+git clone https://github.com/lima21bd/repository_name.git
+cd repository_name/
+git branch -a
+git branch
+git checkout any_branch_name
+git log
+git checkout master
+git log
+git checkout -b new_branch
+git branch
+git merge any_branch_name
+git log
+
+# Here we have merged any_branch_name with new_branch
+
